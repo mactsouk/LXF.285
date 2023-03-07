@@ -3,7 +3,7 @@ module github.com/mactsouk/LXF.285/validate
 go 1.17
 
 require (
-	github.com/gin-gonic/gin v1.7.4
+	github.com/gin-gonic/gin v1.7.7
 	github.com/go-playground/validator/v10 v10.9.0
 )
 
